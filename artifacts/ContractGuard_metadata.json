@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Boardroom.sol": "ContractGuard"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Boardroom.sol": {
+			"keccak256": "0xde42f0bbd6f11a0efb77fb6b1588f3a90cd511e5121bfd44cde38706bd9b1fbb",
+			"license": "MIXED",
+			"urls": [
+				"bzz-raw://7007aad08cdec903c9445a302e4249382a9e3e10fdd00ad595b0abb363d44c5d",
+				"dweb:/ipfs/QmcKKjoukC3jXqzbURDoSXTxj5WCxVKyDNFtueRRGGGQfh"
+			]
+		}
+	},
+	"version": 1
+}
